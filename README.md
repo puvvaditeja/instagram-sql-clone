@@ -12,26 +12,26 @@
 ![Database-schema](https://github.com/user-attachments/assets/7ca7bb29-84dc-44e0-87ae-1df9c6de4579)
 
 ## Questions
-- Total number of registrations
-- Most Active Users
-- Most Liked Photos
-- Users Who Never Posted a Photo
-- The users who have liked every single photo on the site
-- The average time on the platform
+- Find the Total number of registrations
+- Identify the Most Active Users
+- Identify the Most Liked Photos
+- Find the Users Who Never Posted a Photo
+- Find The users who have liked every single photo on the site
+- Calculate The average time on the platform
 - Clean URLs of photos posted on the platform
-- Total number of users without comments
-- The most popular tag names by likes
+- Find the Total number of users without comments
+- Identify The most popular tag names by likes
 - Identify pairs of users who follow each other.
-- Users Who Like Their Own Photos
+- Find the Users Who Like Their Own Photos
 - Find photos that receive the most comments from users who don’t follow the photo uploader.
-- Top 5 users with most followers
+- Find the Top 5 users with most followers
 - Avg photos uploaded per day in last 6 months
-- Photos with no likes or comments
+- Identify the Photos with no likes or comments
 - The day of the week most users register on
 - Prevent a user from liking the same photo twice
 - Auto-delete likes and comments when a photo is deleted
 - The username, image posted, tags used and comments made by a specific user
-- Popular hashtags list
+- Identify the Popular hashtags list
   
 ## Project Insights
 - The most active user is eveline95
