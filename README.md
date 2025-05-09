@@ -6,6 +6,7 @@
 - Practice JOIN operations, aggregation functions, nested queries, and relationship modeling.
 
 ## Dataset used
+- <a href="https://github.com/puvvaditeja/instagram-sql-clone/blob/main/ig_clone_dataset.sql">Dataset</a>
 
 ## Database Schema
 ![Database-schema](https://github.com/user-attachments/assets/7ca7bb29-84dc-44e0-87ae-1df9c6de4579)
@@ -33,6 +34,15 @@
 - Popular hashtags list
   
 ## Project Insights
+- The most active user is eveline95
+- Zack_Kemmer93 photo has the most liked photo
+- More than 26 people are not yet posted a single photo
+- 13 people in the instagram who liked every single photo
+- 23 people are not yet commented
+- the most used tag name is smile
+- More than 1000 users who like their own photo
+- Kenton_Kirlin user has most number of followers
+- An Avg of 2 photos uploaded per day in last 6 months
 
 ## Conclusion
 This project demonstrates how SQL can be used to model and manage a social media platform’s backend structure. It helped strengthen relational database design skills, query optimization, and data retrieval for real-world scenarios.
